@@ -1,0 +1,12 @@
+{
+  "name": "ex3tmai",
+  "version": "1.0.0",
+  "description": "\"The nature of a thing is more important than the form of a thing.\" - Brok from God of War: Ragnarok",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
